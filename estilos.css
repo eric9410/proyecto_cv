@@ -1,0 +1,25 @@
+* {
+    margin:0;
+    padding:0;
+    }
+    #columna1 {
+    position:absolute;
+    top:0px;
+    left:10px;
+    width: 600px;
+    margin-top:10px;
+    background-color:#fcfcfd;
+    }
+    #columna2 {
+    margin-left:620px;
+    margin-right:10px;
+    margin: top 300px;;
+    background-color:#6957bb3d;
+    }
+    
+    h2{
+        color: rgba(0, 0, 255, 0.685);
+    }
+    h3{
+        color:rgb(88, 78, 78);
+    }
